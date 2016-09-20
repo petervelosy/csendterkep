@@ -73,6 +73,36 @@
           47.52658151607529
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Filozófusok kertje",
+        "description": "A világtörténelem filozófusainak és vallásalapítóinak szobrai",
+        "opening_hours_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0393522,
+          47.4893185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fiumei úti Nemzeti Sírkert",
+        "description": "Budapest régi köztemetője elegáns mauzóleumaival, kifejező szobrászatával olyan, akár egy múzeum, ahol sétát tehetünk a történelemben. Kossuth, Deák, Batthyány, és még számos híres magyar nyugszik itt.",
+        "opening_hours_url": "http://nori.gov.hu/nemzeti-emlekhelyek/Budapest/fiumei-uti-temeto/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.084432125091553,
+          47.495962227977486
+        ]
+      }
     }
   ]
 }
