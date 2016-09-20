@@ -452,6 +452,103 @@
           47.50409481230044
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rezső tér és Magyarok Nagyasszonya templom",
+        "opening_hours_url": "",
+        "description": "A templom csak szentmisék alkalmával van nyitva."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.09587979316711,
+          47.47914944473327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aquincum - polgárvárosi amfiteátrum",
+        "opening_hours_url": "",
+        "description": "Az amfiteátrum szabadon látogatható"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.04800236225128,
+          47.56755378489333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Európa-liget, szoborpark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03230607509613,
+          47.50512035625331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "József-hegyi kilátó"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.02747809886932,
+          47.523746979561885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orom utca (szép kilátás a Várra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.043512344360348,
+          47.48930735833928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szent Rita-kápolna",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.08072531223297,
+          47.49503436646665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Róka-hegyi kőfejtő és sziklafal-sétány",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.034446477890015,
+          47.591635903048115
+        ]
+      }
     }
   ]
 }
