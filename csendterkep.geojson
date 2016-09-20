@@ -103,6 +103,164 @@
           47.495962227977486
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Úti Madonna kápolna",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.976226449012756,
+          47.48835762953458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Árpád kilátó"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.999811112880707,
+          47.53515483021385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apáthy-szikla",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.98613452911377,
+          47.5315637709767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naplás-tó és a Cinkotai kiserdő"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.246909618377686,
+          47.507649704099094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pemete tér"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.195035696029663,
+          47.532378707653834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cinkotai bányató"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.21584963798523,
+          47.52656883797821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Szilas-patak partja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.195432662963864,
+          47.5264746577327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sashalmi-erdő"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.157463312149048,
+          47.51233121261258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Népszigeti Duna-part"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.072115421295166,
+          47.56310525187004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiscelli kálvária és Szent Vér kápolna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03191715478897,
+          47.53454094492631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kopaszi-gát"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05848979949951,
+          47.4594334284045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Budafoki kálvária"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.035685658454895,
+          47.42809633448721
+        ]
+      }
     }
   ]
 }
