@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szervita templom",
+        "description": "A templom csaknem egész nap nyitva van.",
+        "opening_hours_url": "http://www.szentanna5.hu/www/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05355453491211,
+          47.49528264351656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Útmenti kereszt és pad",
+        "description": "Ez a pad a Gellért-hegy alatt olyan helyen található, ahol jóformán nincsen turistaforgalom."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05020445585251,
+          47.48365404388544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Egyetemi templom",
+        "description": "",
+        "opening_hours_url": "http://www.adorans.hu/?q=node/1937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.058090150356293,
+          47.49073010695245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gellért-hegyi sziklasétány",
+        "description": "A Gellért-hegy keskeny, vadregényes sétánya, ahol - mivel nem a hegytetõre vezet - a turistaforgalom elenyészõ.",
+        "opening_hours_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.048742651939392,
+          47.4872592576319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Balogh Ádám-szikla teteje",
+        "description": "Csodás kilátópont, ahonnan gyönyörûen látszik a János-hegy mögött lemenõ nap."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.99901181459427,
+          47.52658151607529
+        ]
+      }
+    }
+  ]
+}
