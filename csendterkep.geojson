@@ -1,11 +1,11 @@
-{
+ï»¿{
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "name": "Szervita templom",
-        "description": "A templom csaknem egész nap nyitva van.",
+        "description": "A templom csaknem egÃ©sz nap nyitva van.",
         "opening_hours_url": "http://www.szentanna5.hu/www/"
       },
       "geometry": {
@@ -19,8 +19,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Útmenti kereszt és pad",
-        "description": "Ez a pad a Gellért-hegy alatt olyan helyen található, ahol jóformán nincsen turistaforgalom."
+        "name": "Ãštmenti kereszt Ã©s pad",
+        "description": "Ez a pad a GellÃ©rt-hegy alatt olyan helyen talÃ¡lhatÃ³, ahol jÃ³formÃ¡n nincsen turistaforgalom."
       },
       "geometry": {
         "type": "Point",
@@ -48,8 +48,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gellért-hegyi sziklasétány",
-        "description": "A Gellért-hegy keskeny, vadregényes sétánya, ahol - mivel nem a hegytetõre vezet - a turistaforgalom elenyészõ.",
+        "name": "GellÃ©rt-hegyi sziklasÃ©tÃ¡ny",
+        "description": "A GellÃ©rt-hegy keskeny, vadregÃ©nyes sÃ©tÃ¡nya, ahol - mivel nem a hegytetÅ‘re vezet - a turistaforgalom elenyÃ©szÅ‘.",
         "opening_hours_url": ""
       },
       "geometry": {
@@ -63,8 +63,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "A Balogh Ádám-szikla teteje",
-        "description": "Csodás kilátópont, ahonnan gyönyörûen látszik a János-hegy mögött lemenõ nap."
+        "name": "A Balogh ÃdÃ¡m-szikla teteje",
+        "description": "CsodÃ¡s kilÃ¡tÃ³pont, ahonnan gyÃ¶nyÃ¶rÅ±en lÃ¡tszik a JÃ¡nos-hegy mÃ¶gÃ¶tt lemenÅ‘ nap."
       },
       "geometry": {
         "type": "Point",
