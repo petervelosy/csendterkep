@@ -261,6 +261,197 @@
           47.42809633448721
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamariska-domb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.090290069580075,
+          47.413939091882085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Feneketlen-tó",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.041913747787476,
+          47.47783334004499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabáni-kereszt",
+        "description": "A régi szerb temető helyén álló kőkereszt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0397302,
+          47.4914106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tündér-szikla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9691177,
+          47.5154928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petőfi téri ortodox templom",
+        "opening_hours_url": "http://budapest.orthodoxia.org/main-page/",
+        "description": "Csak szerdán, pénteken, és az istentiszteletek előtt és után tart nyitva."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.050883054733276,
+          47.49333445265026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Gizella sétány padjai",
+        "description": "A Duna-part ezen szakaszán sokkal kevesebb a járókelő, mint a belvárosban."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.068499803543087,
+          47.475382324444425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kis-hárs-hegyi kilátó"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.96623,
+          47.52996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hárs-hegyi kilátó"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9551722,
+          47.5336953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Városmajor",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.018449783325195,
+          47.50773667091203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szimbolikus török temető",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.04231071472168,
+          47.493947007894064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gül baba türbéje és kertje",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.034607410430908,
+          47.51593264624346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orczy park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.089217185974118,
+          47.48142988967883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Újhegyi-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.165295362472534,
+          47.46736859096044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Szabadság tér",
+        "description": "Főként estefelé nyugodt és biztonságos hely, mivel a környező középületeket őrzik."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.050469994544983,
+          47.50409481230044
+        ]
+      }
     }
   ]
 }
